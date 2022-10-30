@@ -1,5 +1,6 @@
 # Trust-Management-Mechanisms-for-Detection-of-Infected-Devices 💻- Final Year Project For my coursework
-Detection of Infected Devices in IoT using ML Algorithms
+Detection of Infected Devices in IoT using ML Algorithms 
+(Scroll till the end I promise It won't be boring 😁)
 <h2>Objectives </h2>
 
 <li> We use three machine learning algorithms Random Forest, Multilayer Perceptron and Autoencoder. </li>
@@ -38,7 +39,8 @@ We choose Botnet attack which can perform Distributed Denial of Service Attack (
 This model was successful in detecting the infected devices from botnet attacks, the next step for this model is to actually deploy it in a network-based environment where it can detect real-time attacks. Further studies need to be done to incorporate hardware devices if it can be used in detecting the anomalies which would make our model more robust. 
 
 <h4>Couldnt resist myself to design posters for my project 🦾 </h4>
-<h4>The Dream Team-Tech Ninjas👩‍💻 We also managed to grab the best Final year project for the year 2018-2022 </h4>
+<h4>The Dream Team-Tech Ninjas👩‍💻</h4>
+<h3>We also managed to grab the best Final year project for the year 2018-2022🏆 </h3>
 
 
 ![image](https://user-images.githubusercontent.com/64797270/198871279-ab64520b-188d-4e39-b48c-139d03bcd323.png)
