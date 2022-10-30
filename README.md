@@ -36,3 +36,14 @@ We choose Botnet attack which can perform Distributed Denial of Service Attack (
 <h2>Future enhancement </h2>
 
 This model was successful in detecting the infected devices from botnet attacks, the next step for this model is to actually deploy it in a network-based environment where it can detect real-time attacks. Further studies need to be done to incorporate hardware devices if it can be used in detecting the anomalies which would make our model more robust. 
+
+<h4>Couldnt resist myself to design posters for my project 🦾 </h4>
+<h4>The Dream Team-Tech Ninjas👩‍💻 We also managed to grab the best Final year project for the year 2018-2022 </h4>
+
+
+![image](https://user-images.githubusercontent.com/64797270/198871279-ab64520b-188d-4e39-b48c-139d03bcd323.png)
+
+
+![image](https://user-images.githubusercontent.com/64797270/198871365-f2a0cde7-1548-4ca6-a8ed-328e7645a262.png)
+![image](https://user-images.githubusercontent.com/64797270/198871548-a7e93af1-2bd9-4f6d-9f15-c2e3719ec6c0.png)
+
