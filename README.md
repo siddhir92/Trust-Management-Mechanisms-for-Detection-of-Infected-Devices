@@ -26,3 +26,13 @@ Random Forest Model👇
 
 Auto Encoder Model👇
 ![image](https://user-images.githubusercontent.com/64797270/198870852-33e53eb5-c424-469d-ba56-4b93aa834969.png)
+
+![image](https://user-images.githubusercontent.com/64797270/198870944-ecc49609-e12a-4b4e-b099-711c9fdd3ec2.png)
+![image](https://user-images.githubusercontent.com/64797270/198870951-5a00960c-9321-486d-adfc-96cef9481df0.png)
+
+
+We choose Botnet attack which can perform Distributed Denial of Service Attack (DDoS) on the nodes. The reason why we choosed this attack is that, DDoS is a very common attack which can be performed on any application. In particular, we targeted Mirai and Bashlite malwares which are based on botnet attack. We have considered three algorithms, Multi-layer Perceptron, Random Forest and Autoencoder to train our model. With each model we observed different accuracies in detecting the infected devices. As a result, Autoencoder model was the one which was able to detect maximum number of anomalies and that is more suitable for our trust model.  
+
+<h2>Future enhancement </h2>
+
+This model was successful in detecting the infected devices from botnet attacks, the next step for this model is to actually deploy it in a network-based environment where it can detect real-time attacks. Further studies need to be done to incorporate hardware devices if it can be used in detecting the anomalies which would make our model more robust. 
