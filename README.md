@@ -52,4 +52,4 @@ This model was successful in detecting the infected devices from botnet attacks,
 ![image](https://user-images.githubusercontent.com/64797270/198871548-a7e93af1-2bd9-4f6d-9f15-c2e3719ec6c0.png)
 
 
-<h3> You can connected with me and I would love to share more about this project 🧠 </h3>
+<h3> You can connect with me and I would love to share more about this project 🧠 </h3>
